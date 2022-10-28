@@ -1,0 +1,4 @@
+[custom0]
+binding='<Alt>grave'
+command='tilix --quake --full-screen'
+name='tilix'
